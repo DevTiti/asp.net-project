@@ -1,0 +1,7 @@
+C:\Users\petri\Desktop\Projects\AZURE\NET-Demo\azure-app-demo\publish\azure-app-demo.exe
+C:\Users\petri\Desktop\Projects\AZURE\NET-Demo\azure-app-demo\publish\appsettings.Development.json
+C:\Users\petri\Desktop\Projects\AZURE\NET-Demo\azure-app-demo\publish\appsettings.json
+C:\Users\petri\Desktop\Projects\AZURE\NET-Demo\azure-app-demo\publish\azure-app-demo.dll
+C:\Users\petri\Desktop\Projects\AZURE\NET-Demo\azure-app-demo\publish\azure-app-demo.deps.json
+C:\Users\petri\Desktop\Projects\AZURE\NET-Demo\azure-app-demo\publish\azure-app-demo.runtimeconfig.json
+C:\Users\petri\Desktop\Projects\AZURE\NET-Demo\azure-app-demo\publish\azure-app-demo.pdb
